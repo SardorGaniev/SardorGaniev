@@ -14,4 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello World 👋👋👋
+
+### I am Sardor Ganiev and I am a Backend Developer 
+
+
+[website]: https://github.com/SardorGaniev
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SardorGanievk&layout=compact&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![SardorGaniev's github stats](https://github-readme-stats.vercel.app/api?username=SardorGaniev&count_private=true&include_all_commits&show_icons=true&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SardorGaniev&color=brightgreen" alt="Sardor Ganiev"/> </p>
+
 ![snake gif](https://github.com/SardorGaniev/Snake/blob/output/github-contribution-grid-snake.gif)
