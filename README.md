@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 [website]: https://github.com/SardorGaniev
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SardorGanievk&layout=compact&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SardorGaniev&layout=compact&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![SardorGaniev's github stats](https://github-readme-stats.vercel.app/api?username=SardorGaniev&count_private=true&include_all_commits&show_icons=true&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
 
